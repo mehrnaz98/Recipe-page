@@ -67,3 +67,8 @@ h6 {
   color: #844631;
   font-size: small;
 }
+
+.list-decimal li::marker {
+  color: #844631;
+  font-weight: bolder;
+}
