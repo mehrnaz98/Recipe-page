@@ -76,3 +76,34 @@ h6 {
   color: #844631;
   font-weight: bolder;
 }
+
+table {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+th {
+  padding-left: 3rem;
+  font-weight: 500;
+}
+
+td {
+  text-indent: -20rem;
+  color: #844631;
+  font-weight: bold;
+}
+
+tr {
+  border-bottom: 1px solid #ccc;
+}
+
+tr:last-child {
+  border-bottom: none;
+}
