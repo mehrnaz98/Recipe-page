@@ -65,4 +65,5 @@ h6 {
 /* Custom styles for colored bullet points */
 .list-disc li::marker {
   color: #844631;
+  font-size: small;
 }
