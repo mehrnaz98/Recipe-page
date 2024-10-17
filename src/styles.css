@@ -88,6 +88,7 @@ td {
   padding-top: 0.8rem;
   padding-bottom: 0.8rem;
   font-size: 1.005rem;
+  font-weight: bolder;
 }
 
 th {
@@ -98,7 +99,6 @@ th {
 td {
   text-indent: -22rem;
   color: #844833;
-  font-weight: bold;
 }
 
 tr {
