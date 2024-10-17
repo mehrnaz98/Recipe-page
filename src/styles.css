@@ -85,17 +85,18 @@ table {
 
 th,
 td {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+  font-size: 1.005rem;
 }
 
 th {
-  padding-left: 3rem;
+  padding-left: 2rem;
   font-weight: 500;
 }
 
 td {
-  text-indent: -20rem;
+  text-indent: -22rem;
   color: #844631;
   font-weight: bold;
 }
