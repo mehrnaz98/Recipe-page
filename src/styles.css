@@ -28,6 +28,10 @@ a {
   text-decoration: none;
 }
 
+li {
+  padding-left: 1em;
+}
+
 p,
 h1,
 h2,
