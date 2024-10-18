@@ -108,3 +108,21 @@ tr {
 tr:last-child {
   border-bottom: none;
 }
+
+/* Responsive styles */
+@media (max-width: 600px) {
+  th,
+  td {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    font-size: 0.9rem;
+  }
+
+  th {
+    padding-left: 1rem;
+  }
+
+  td {
+    text-indent: -10rem;
+  }
+}
